@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+#define dbg(x) cout << #x << " = " << x;
+#define ll long long
+#define f first
+#define s second
+
 void solve() {
 
 }
